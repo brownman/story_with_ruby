@@ -9,14 +9,15 @@ some short stories I composed.
 where all the stories r hiding?
 ------------------------------
 each file at the bin/ directory contains 1 story 
-each story aimed at being composed by one asspect of the ruby-language (or some rails feature).
+each story aimed at being composed by one asspect of the ruby or rails.
 
 
 how to read the stories?
 -----------------------
 run:
+#gem install bundler
 bundle install #install dependencies
-bundle exec bin/SOME-FILE.rb should output a short story/dialog. 
+bundle exec bin/SOME-FILE.rb #should output a short story/dialog. 
 
  
 
