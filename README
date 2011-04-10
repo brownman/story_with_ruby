@@ -1,0 +1,33 @@
+
+
+
+what's in the box ?
+------------------
+some short stories I composed. 
+
+
+where all the stories r hiding?
+------------------------------
+each file at the bin/ directory contains 1 story 
+each story aimed at being composed by one asspect of the ruby-language (or some rails feature).
+
+
+how to read the stories?
+-----------------------
+run:
+bundle install #install dependencies
+bundle exec bin/SOME-FILE.rb should output a short story/dialog. 
+
+ 
+
+list of stories to date:
+ -----------------------------------
+1- source: ruby-core-api              class:    string+array
+2- source: official rails guide       library:  active-record 
+
+
+summery:
+--------
+if u want to learn ruby/rails - u may find this method useful.
+
+
