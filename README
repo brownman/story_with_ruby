@@ -21,7 +21,7 @@ bundle exec bin/SOME-FILE.rb #should output a short story/dialog.
 
  
 
-list of stories to date:
+stories ingredient :
  -----------------------------------
 1- source: ruby-core-api              class:    string+array
 2- source: official rails guide       library:  active-record 
@@ -31,4 +31,8 @@ summery:
 --------
 if u want to learn ruby/rails - u may find this method useful.
 
+
+NOTE:
+-----
+still under construction !
 
