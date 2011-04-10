@@ -21,7 +21,7 @@ bundle exec bin/SOME-FILE.rb #should output a short story/dialog.
 
  
 
-stories ingredient :
+stories ingredients :
  -----------------------------------
 1- source: ruby-core-api              class:    string+array
 2- source: official rails guide       library:  active-record 
